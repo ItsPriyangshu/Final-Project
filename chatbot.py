@@ -47,7 +47,7 @@ counter = 0
 
 def main():
     global counter
-    st.title("Implementations of Chatbot using NLP")
+    st.title("Implementation of Chatbot using NLP")
     st.markdown(
     """
     <style>
